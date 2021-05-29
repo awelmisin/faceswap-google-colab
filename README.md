@@ -1,2 +1,8 @@
 # faceswap-google-colab
-  Updated 43 seconds ago Faceswap is a open source Deepfake software in which you can swap faces. And normally this process of "swapping" takes a lot of time because of the model training. And while taking most of your time, it also uses your GPU all the time. I will spare you from a lot of hard work and helping you letting screw Google with electricity and gpu costs. (jk.) It's a rather slow process if you got mid-end, high-end GPU's but if you are on the low-end side, or do you want to spare your computer from hard work, it should totally help you.
+Faceswap is a open source Deepfake software in which you can swap faces. And normally this process of "swapping" takes a lot of time because of the model training. And while taking most of your time, it also uses your GPU all the time. I will spare you from a lot of hard work and helping you letting screw Google with electricity and gpu costs. (jk.) It's a rather slow process if you got mid-end, high-end GPU's but if you are on the low-end side, or do you want to spare your computer from hard work, it should totally help you.
+
+Grab the latest notebook: 
+
+
+Make a copy in your Google Colab account.
+Read the instructions and configure for your needs.
